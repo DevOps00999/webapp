@@ -13,7 +13,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
     // new comment.
 
-    dsds
+    //dsds
 }
 
 app.UseHttpsRedirection();
